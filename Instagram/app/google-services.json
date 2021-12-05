@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963325070695",
+    "project_id": "instagram-deb65",
+    "storage_bucket": "instagram-deb65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963325070695:android:1eb85ef2d7d41f5a68f3c2",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963325070695-kmsr8081q5qp33tt3lobnveolo0ui98l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrUFIbddAPHaXRtO4mHLtr1lywRwdQD04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963325070695-kmsr8081q5qp33tt3lobnveolo0ui98l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
